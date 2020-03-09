@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/Practice_programs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Db_values_to_csv.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pgm_mysql_basics.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL_data_values.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SQL_write_values.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Setting.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/csv_opearations.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/mysql_read_Excel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/web_app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mysql_read_Excel.py" beforeDir="false" afterPath="$PROJECT_DIR$/mysql_read_Excel.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -173,22 +161,22 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1259" height="118" key="GridCell.Tab.0.bottom" timestamp="1583738387450">
+    <state width="1259" height="118" key="GridCell.Tab.0.bottom" timestamp="1583750763727">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="118" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583738387450" />
-    <state width="1259" height="118" key="GridCell.Tab.0.center" timestamp="1583738387450">
+    <state width="1259" height="118" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1583750763727" />
+    <state width="1259" height="118" key="GridCell.Tab.0.center" timestamp="1583750763727">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="118" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583738387450" />
-    <state width="1259" height="118" key="GridCell.Tab.0.left" timestamp="1583738387450">
+    <state width="1259" height="118" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1583750763726" />
+    <state width="1259" height="118" key="GridCell.Tab.0.left" timestamp="1583750763726">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="118" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583738387450" />
-    <state width="1259" height="118" key="GridCell.Tab.0.right" timestamp="1583738387450">
+    <state width="1259" height="118" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1583750763726" />
+    <state width="1259" height="118" key="GridCell.Tab.0.right" timestamp="1583750763727">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1259" height="118" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583738387450" />
+    <state width="1259" height="118" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1583750763727" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1583652230975">
       <screen x="0" y="0" width="1280" height="680" />
     </state>

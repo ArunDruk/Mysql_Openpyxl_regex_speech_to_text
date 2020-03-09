@@ -15,6 +15,13 @@ mycursor=mydb.cursor()
 #val = ("Simran", "caley")
 #mycursor.execute(sql,val)
 
+######### Updating the record into database ######################
+# sql = "UPDATE customers1 SET address = 'New York' WHERE address = 'Highway 21'"
+# mycursor.execute(sql)
+# print("Updated successfully")
+# mydb.commit()
+
+
 ########## Read CSV file and taking to the Data variable which is list #################
 # with open("SQL_data_values.csv",'r') as fr:
 #     thereader=csv.reader(fr)
@@ -31,14 +38,14 @@ mycursor=mydb.cursor()
 #     mycursor.execute(sql, val)
 
 
-######### Query the Database and write the records to the Excel file #####################
+######### Query and extract the Database and write the records to the Excel file #####################
 
-mycursor.execute("select * from customers1")
-with open("Db_values_to_csv.csv",'w',newline="") as fw:
-    thewriter=csv.writer(fw)
-    thewriter.writerow(["name","address"])
-    for record in mycursor:
-        thewriter.writerow(record)
+# mycursor.execute("select * from customers1")
+# with open("Db_values_to_csv.csv",'w',newline="") as fw:
+#     thewriter=csv.writer(fw)
+#     thewriter.writerow(["name","address"])
+#     for record in mycursor:
+#         thewriter.writerow(record)
 
 # for record in mycursor:
 #       print(record)

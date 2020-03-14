@@ -29,34 +29,58 @@
 #
 # config.set("ebiz","user","akumar6")
 
-##############################################################################################################
+#################### Accessing the values inside the Dictionary of Dictionary ###########################
 
-payload = {
-         "customerDetails" : {
-         "soldToCustomerNumber" : "5000871",
-         "billToCustomerNumber" : "",
-         "includeBasicFloorplans" : "FALSE",
-         "vehicleAttributes" : [ {
-         "vehicleReferenceId" : "7037088",
-         "vehicleYear" : "2018",
-         "maxOdometerReading" : "120",
-         "asIsIndicator" : "FALSE",
-         "totalVehicleDebitAmount" : "1000",
-         "salvageUnitIndicator" : "FALSE",
-         "salesChannel" : "RMS",
-         "vehicleType" : "V",
-         "saleType" : "O",
-         "hondaFloorplanThresholdFlag" : "TRUE",
-         "sellerAccount" : ""
-         }
-         ]
-         }
-         }
 
-L=payload["customerDetails"]["vehicleAttributes"]
-print(L[0]["vehicleReferenceId"])
+# payload = {
+#          "customerDetails" : {
+#          "soldToCustomerNumber" : "5000871",
+#          "billToCustomerNumber" : "",
+#          "includeBasicFloorplans" : "FALSE",
+#          "vehicleAttributes" : [ {
+#          "vehicleReferenceId" : "7037088",
+#          "vehicleYear" : "2018",
+#          "maxOdometerReading" : "120",
+#          "asIsIndicator" : "FALSE",
+#          "totalVehicleDebitAmount" : "1000",
+#          "salvageUnitIndicator" : "FALSE",
+#          "salesChannel" : "RMS",
+#          "vehicleType" : "V",
+#          "saleType" : "O",
+#          "hondaFloorplanThresholdFlag" : "TRUE",
+#          "sellerAccount" : ""
+#          }
+#          ]
+#          }
+#          }
+# print(payload.keys())
 
-print(payload["customerDetails"]["vehicleAttributes"][0]["maxOdometerReading"])
+#
+# L=payload["customerDetails"]["vehicleAttributes"]
 
-L1=payload["customerDetails"]["soldToCustomerNumber"]
-print(L1)
+# print(L[0]["vehicleReferenceId"])
+#
+# print(payload["customerDetails"]["vehicleAttributes"][0]["maxOdometerReading"])
+#
+# L1=payload["customerDetails"]["soldToCustomerNumber"]
+# print(L1)
+####################################################################################################
+
+# def add():
+#     print("Hello")
+#     return 2
+#
+# a=["add()"]
+# print(a)
+
+# x=[1,2,3,4,5,6]
+# print(x[0:-3])
+
+#x=["th3yr","rew8","6pore"]
+##############################################################################
+# x="th3yrr6ew8pore"
+#
+# a="".join(i for i in x if i.isdigit())
+# print(a)
+
+##############################################################################

@@ -84,3 +84,33 @@
 # print(a)
 
 ##############################################################################
+
+# L=["tc107132is_us_ap_costar_invoice_import_request_set()"]
+# print(L[0])
+##############################################################################################################
+# a=3
+# if not a:
+#     print("Pass")
+# else:
+#     print("fail")
+
+##############################################################################################################
+# class func1():
+#     def add(self):
+#         return 2
+#
+#     def sub(self):
+#         return 3
+#
+#     def mul(self):
+#         return 4
+#
+# class func2():
+#     def div(self):
+#         return 5
+#
+#     def alt(self):
+#         return 6
+#
+#     def mul(self):
+#         pass

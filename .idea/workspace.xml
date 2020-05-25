@@ -2,10 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Oops_1.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/web_app.py" beforeDir="false" afterPath="$PROJECT_DIR$/web_app.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,8 +35,13 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
-  <component name="RunManager" selected="Python.Text_to_speech_using_Google_speech_services">
-    <configuration name="Oops3_super_init" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\akumar6\PycharmProjects\Practice_programs\package_1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.mysql_practice_1">
+    <configuration name="Oops_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,7 +53,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops3_super_init.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oops_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -57,7 +62,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Text_to_speech_using_Google_speech_services" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fronzen_set1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -69,7 +74,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fronzen_set1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -78,7 +83,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="To_send_SMS" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="list_shallow_deep_copy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -90,7 +95,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/To_send_SMS.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/list_shallow_deep_copy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -99,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="json_format" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="mysql_practice_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -111,7 +116,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/json_format.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/mysql_practice_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -120,7 +125,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="replace_multiple_char" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -132,7 +137,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/replace_multiple_char.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -143,11 +148,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Text_to_speech_using_Google_speech_services" />
-        <item itemvalue="Python.json_format" />
-        <item itemvalue="Python.To_send_SMS" />
-        <item itemvalue="Python.test1" />
-        <item itemvalue="Python.Oops3_super_init" />
+        <item itemvalue="Python.mysql_practice_1" />
+        <item itemvalue="Python.list_shallow_deep_copy" />
+        <item itemvalue="Python.replace_multiple_char" />
+        <item itemvalue="Python.fronzen_set1" />
+        <item itemvalue="Python.Oops_1" />
       </list>
     </recent_temporary>
   </component>
@@ -165,33 +170,43 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state width="1224" height="218" key="GridCell.Tab.0.bottom" timestamp="1584171783358">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1515" height="149" key="GridCell.Tab.0.bottom" timestamp="1590417201745">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1584171783358" />
-    <state width="1224" height="218" key="GridCell.Tab.0.center" timestamp="1584171783358">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
+    <state width="1515" height="149" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1590417201745" />
+    <state width="1899" height="203" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590081974616" />
+    <state width="1515" height="149" key="GridCell.Tab.0.center" timestamp="1590417201744">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1584171783358" />
-    <state width="1224" height="218" key="GridCell.Tab.0.left" timestamp="1584171783358">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
+    <state width="1515" height="149" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1590417201744" />
+    <state width="1899" height="203" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590081974616" />
+    <state width="1515" height="149" key="GridCell.Tab.0.left" timestamp="1590417201744">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1584171783358" />
-    <state width="1224" height="218" key="GridCell.Tab.0.right" timestamp="1584171783358">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
+    <state width="1515" height="149" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1590417201744" />
+    <state width="1899" height="203" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590081974616" />
+    <state width="1515" height="149" key="GridCell.Tab.0.right" timestamp="1590417201745">
+      <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state width="1224" height="218" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1584171783358" />
+    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
+    <state width="1515" height="149" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1590417201745" />
+    <state width="1899" height="203" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590081974616" />
     <state x="144" y="0" key="SettingsEditor" timestamp="1583857764703">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583857764703" />
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog" timestamp="1584166661733">
+    <state x="418" y="204" key="com.intellij.ide.util.TipDialog" timestamp="1590408876559">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588075125942" />
+    <state x="418" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590408876559" />
+    <state x="523" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1590040996721" />
+    <state x="303" y="1" key="search.everywhere.popup" timestamp="1585294717308">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1584166661733" />
-    <state x="303" y="1" key="search.everywhere.popup" timestamp="1583766906216">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1583766906216" />
+    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585294717308" />
   </component>
 </project>

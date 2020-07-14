@@ -9,7 +9,7 @@ fr=open("Text_speech_converter.txt")
 Data=fr.read()
 
 ###################### To get the input from the user and convert to Speech
-#Data=input("Enter your text pls: ")
+# Data=input("Enter your text pls: ")
 
 language='en'
 audio=gTTS(text=Data,lang=language,slow=False)

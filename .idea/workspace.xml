@@ -3,9 +3,15 @@
   <component name="ChangeListManager">
     <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/MANGL_BLKLN_JE_EXTRACT.tsv" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/MANGL_BLKLN_JE_EXTRACT.tsv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/regex_for_file_modification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/regex_MANGL_BLKLN_JE_file_modification.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/1.wav" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108_original.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108_original.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/regex_to_extract_batch_name_from_Journal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/regex_to_extract_batch_name_from_Journal.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/date_time_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_time_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice31.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice31.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice32.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice32.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,15 +39,86 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings>
+        <option name="useSoftWraps" value="true" />
+      </console-settings>
+    </option>
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\akumar6\PycharmProjects\Practice_programs\package_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.regex_PS_CAUTO_Accrual_file_modification">
-    <configuration name="date_time_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.speech_to_text_Opening_website">
+    <configuration name="Reading_from_database_writing_to_Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/Reading_from_database_writing_to_Excel.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Write_to_database_reading_excel_pgm1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/Write_to_database_reading_excel_pgm1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="quick_prac1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_practice/quick_prac1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="speech_to_text_Opening_website" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -53,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/date_time_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speech_to_text_Opening_website.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,7 +139,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="regex_MANGL_BLKLN_JE_file_modification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="write_excel_pgm_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -70,74 +147,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_expresssion_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\akumar6\PycharmProjects\Practice_programs\Regular_expresssion_programs\regex_MANGL_BLKLN_JE_file_modification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regex_PS_CAUTO_Accrual_file_modification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice_programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_expresssion_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_expresssion_programs/regex_PS_CAUTO_Accrual_file_modification.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regex_overview_match_search_finditer_findall" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice_programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_expresssion_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\akumar6\PycharmProjects\Practice_programs\Regular_expresssion_programs\regex_overview_match_search_finditer_findall.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="regex_to_extract_batch_name_from_Journal" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice_programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Regular_expresssion_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Regular_expresssion_programs/regex_to_extract_batch_name_from_Journal.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/write_excel_pgm_1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.regex_PS_CAUTO_Accrual_file_modification" />
-        <item itemvalue="Python.regex_MANGL_BLKLN_JE_file_modification" />
-        <item itemvalue="Python.regex_overview_match_search_finditer_findall" />
-        <item itemvalue="Python.regex_to_extract_batch_name_from_Journal" />
-        <item itemvalue="Python.date_time_1" />
+        <item itemvalue="Python.speech_to_text_Opening_website" />
+        <item itemvalue="Python.Reading_from_database_writing_to_Excel" />
+        <item itemvalue="Python.quick_prac1" />
+        <item itemvalue="Python.Write_to_database_reading_excel_pgm1" />
+        <item itemvalue="Python.write_excel_pgm_1" />
       </list>
     </recent_temporary>
   </component>
@@ -178,40 +192,72 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="524" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590417945302" />
-    <state width="1515" height="194" key="GridCell.Tab.0.bottom" timestamp="1591467565530">
+    <state x="637" y="165" key="#xdebugger.XInspectDialog" timestamp="1592723488639">
       <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="637" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1592723488639" />
+    <state x="715" y="229" key="#xdebugger.evaluate" timestamp="1593431888493">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="715" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1593431888493" />
+    <state width="1899" height="148" key="GridCell.Tab.0.bottom" timestamp="1594662068217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="194" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1591467565530" />
-    <state width="1899" height="194" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591459997058" />
-    <state width="1515" height="194" key="GridCell.Tab.0.center" timestamp="1591467565530">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
+    <state width="1899" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
+    <state width="1899" height="148" key="GridCell.Tab.0.center" timestamp="1594662068217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="194" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1591467565530" />
-    <state width="1899" height="194" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591459997058" />
-    <state width="1515" height="194" key="GridCell.Tab.0.left" timestamp="1591467565530">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
+    <state width="1899" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
+    <state width="1899" height="148" key="GridCell.Tab.0.left" timestamp="1594662068217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="194" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1591467565530" />
-    <state width="1899" height="194" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591459997058" />
-    <state width="1515" height="194" key="GridCell.Tab.0.right" timestamp="1591467565530">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state width="1515" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
+    <state width="1899" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
+    <state width="1899" height="148" key="GridCell.Tab.0.right" timestamp="1594662068217">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="194" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1591467565530" />
-    <state width="1899" height="194" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591459997058" />
-    <state x="144" y="0" key="SettingsEditor" timestamp="1583857764703">
-      <screen x="0" y="0" width="1280" height="680" />
+    <state width="1515" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
+    <state width="1899" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
+    <state width="1899" height="255" key="GridCell.Tab.1.bottom" timestamp="1594487470464">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="144" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1583857764703" />
-    <state x="523" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1591458667497">
+    <state width="949" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593450191210" />
+    <state width="1899" height="255" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
+    <state width="1899" height="255" key="GridCell.Tab.1.center" timestamp="1594487470464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
+    <state width="1899" height="255" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
+    <state width="1899" height="255" key="GridCell.Tab.1.left" timestamp="1594487470463">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
+    <state width="1899" height="255" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470463" />
+    <state width="1899" height="255" key="GridCell.Tab.1.right" timestamp="1594487470464">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="949" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
+    <state width="1899" height="255" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
+    <state x="523" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1594703132693">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588075125942" />
-    <state x="418" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1590854514679" />
-    <state x="523" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1591458667497" />
+    <state x="418" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592715574079" />
+    <state x="523" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594703132693" />
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593675471957">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593675471957" />
+    <state x="533" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592404478548">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="533" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1592404478548" />
     <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1590822952782">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
@@ -236,14 +282,30 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="93" y="93" width="1350" height="638" maximized="true" key="dock-window-6/0.0.1536.824@0.0.1536.824" timestamp="1590822952783" />
-    <state x="529" y="216" key="git4idea.merge.GitMergeDialog" timestamp="1590854907824">
-      <screen x="0" y="0" width="1536" height="824" />
+    <state x="661" y="273" key="git4idea.merge.GitMergeDialog" timestamp="1592405412009">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="529" y="216" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1590854907824" />
-    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1590814371376">
+    <state x="661" y="273" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592405412009" />
+    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592663784957">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="303" y="1" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1585294717308" />
-    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1590814371376" />
+    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592663784957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="val" language="Python" />
+      </configuration>
+    </watches-manager>
   </component>
 </project>

@@ -13,4 +13,5 @@ time.sleep(2)
 driver.find_element_by_link_text("LIFESTYLE").click()
 time.sleep(10)
 
+
 driver.close()

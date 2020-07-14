@@ -1,13 +1,18 @@
-from datetime import date, datetime
+from datetime import datetime
 
-# L1=[]
-# a=date.today()
-# L1=str(a).split('-')
-# print(L1)
-# S1=L1[1]+'/'+L1[2]+'/'+L1[0]
-# print(S1)
+today_date=datetime.now().strftime("%d-%b-%Y")
+present_date=datetime.now().strftime("%Y%m%d%H%M%S%f")
+print(present_date)
 
-b=date.today().strftime("%m/%d/%Y")
-print(b)
-c=datetime.now().strftime("%M%S")
-print(c)
+current_date=datetime.now()
+
+print("Current year =", current_date.year)
+print("Current Month =",  str(current_date.month)+","+current_date.strftime("%b"))
+print("Current Day = ", current_date.day)
+print("Current Hour = ", current_date.hour)
+print("Current Min = ", current_date.minute)
+print("Current Sec = ", current_date.second)
+print("Current Micro-Sec = ", current_date.microsecond)
+
+
+

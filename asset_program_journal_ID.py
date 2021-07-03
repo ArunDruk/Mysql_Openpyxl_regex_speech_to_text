@@ -1,6 +1,7 @@
 
 fo=open("Journal_program_asset.txt","r")
 lines=fo.readlines()
+print(type(lines))
 print(lines[17][8:40])
 print((lines[17][8:40]).strip())
 

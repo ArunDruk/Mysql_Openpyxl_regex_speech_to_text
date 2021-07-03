@@ -7,7 +7,7 @@ qr=qrcode.QRCode(
     box_size=10,
     border=5
 )
-data="9738476056"
+data="SholaRajan #24/1, 5th Cross Kanakanagar, R.T.Nagar, Bangalore-32"
 qr.add_data(data)
 qr.make(fit=True)
 img=qr.make_image(fill="black",back_color="white")

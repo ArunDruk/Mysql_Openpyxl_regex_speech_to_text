@@ -1,4 +1,4 @@
-
+import json_format
 # a=1350.45
 # b=45.98
 # c=a+b
@@ -12,3 +12,6 @@
 a=1345.43
 
 print(int(a))
+def func1():
+    b=["json_format()"]
+    return b

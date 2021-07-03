@@ -2,16 +2,29 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Quick_practice/Grandstream_quick_prac1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Selenium_pgms/goodreturns_following_sibling.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108_original.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/PS_CAUTO_Accrual__BW191108_original.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Regular_expresssion_programs/regex_to_extract_batch_name_from_Journal.py" beforeDir="false" afterPath="$PROJECT_DIR$/Regular_expresssion_programs/regex_to_extract_batch_name_from_Journal.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" beforeDir="false" afterPath="$PROJECT_DIR$/Text_to_speech_using_Google_speech_services.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/API_Testing/get_response_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Testing/get_response_api.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Class_encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_encapsulation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List_del_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_del_operation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/test1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/test1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QRCode_Generator_pgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/QRCode_Generator_pgm.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/QR_image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/QR_image1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Quick_practice/quick_prac1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Sys_module_pgm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sys_module_pgm1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/asset_program_journal_ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/asset_program_journal_ID.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/date_time_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_time_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice31.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice31.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice32.py" beforeDir="false" afterPath="$PROJECT_DIR$/practice32.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/int_float_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/int_float_validation.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phone_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/phone_info.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice31.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice32.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_indexing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string_join_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_join_function.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/switch_case_statement_illustration_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/switch_case_statement_illustration_1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test21.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,6 +41,13 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/ArunDruk/Mysql_Openpyxl_regex_speech_to_text.git" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1Yf6leTYfTGhK1ghNziuhxBbRGl" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -39,8 +59,9 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="full.screen.before.presentation.mode" value="false" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -54,8 +75,8 @@
       <recent name="C:\Users\akumar6\PycharmProjects\Practice_programs\package_1" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.speech_to_text_Opening_website">
-    <configuration name="Reading_from_database_writing_to_Excel" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Grandstream_quick_prac1">
+    <configuration name="Ascending &amp; Descending order using List" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -63,11 +84,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Interview_practice_programs" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/Reading_from_database_writing_to_Excel.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Interview_practice_programs/Ascending &amp; Descending order using List.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -76,7 +97,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Write_to_database_reading_excel_pgm1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Ascending_order_list" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,11 +105,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
+      <option name="WORKING_DIRECTORY" value="C:/Arun/Personal/Python_personal_coding/Interview_pgms" />
+      <option name="IS_MODULE_SDK" value="false" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/Write_to_database_reading_excel_pgm1.py" />
+      <option name="SCRIPT_NAME" value="C:/Arun/Personal/Python_personal_coding/Interview_pgms/Ascending_order_list.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -97,7 +118,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="quick_prac1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Grandstream_quick_prac1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +130,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_practice/quick_prac1.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\akumar6\PycharmProjects\Practice_programs\Quick_practice\Grandstream_quick_prac1.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +139,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="speech_to_text_Opening_website" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="quick_prac2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Practice_programs" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Quick_practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Quick_practice/quick_prac2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="string_join_function" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Practice_programs" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,28 +172,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/speech_to_text_Opening_website.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="write_excel_pgm_1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Practice_programs" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/write_excel_pgm_1.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/string_join_function.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -162,11 +183,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.speech_to_text_Opening_website" />
-        <item itemvalue="Python.Reading_from_database_writing_to_Excel" />
-        <item itemvalue="Python.quick_prac1" />
-        <item itemvalue="Python.Write_to_database_reading_excel_pgm1" />
-        <item itemvalue="Python.write_excel_pgm_1" />
+        <item itemvalue="Python.Grandstream_quick_prac1" />
+        <item itemvalue="Python.Ascending &amp; Descending order using List" />
+        <item itemvalue="Python.Ascending_order_list" />
+        <item itemvalue="Python.string_join_function" />
+        <item itemvalue="Python.quick_prac2" />
       </list>
     </recent_temporary>
   </component>
@@ -183,114 +204,42 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590822898309">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="223" y="70" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1590822898309" />
-    <state x="524" y="222" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590417945302">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="524" y="222" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1590417945302" />
-    <state x="637" y="165" key="#xdebugger.XInspectDialog" timestamp="1592723488639">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="637" y="165" key="#xdebugger.XInspectDialog/0.0.1536.824@0.0.1536.824" timestamp="1592723488639" />
-    <state x="715" y="229" key="#xdebugger.evaluate" timestamp="1593431888493">
+    <state x="623" y="118" key="CommitChangelistDialog2" timestamp="1625315060069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="715" y="229" key="#xdebugger.evaluate/0.0.1920.1040@0.0.1920.1040" timestamp="1593431888493" />
-    <state width="1899" height="148" key="GridCell.Tab.0.bottom" timestamp="1594662068217">
+    <state x="623" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1625315060069" />
+    <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1625316730079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="162" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="148" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
-    <state width="1899" height="148" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
-    <state width="1899" height="148" key="GridCell.Tab.0.center" timestamp="1594662068217">
+    <state x="740" y="277" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1625316730079" />
+    <state width="1899" height="336" key="GridCell.Tab.0.bottom" timestamp="1624286278209">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="162" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="148" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
-    <state width="1899" height="148" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
-    <state width="1899" height="148" key="GridCell.Tab.0.left" timestamp="1594662068217">
+    <state width="1899" height="336" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1624286278209" />
+    <state width="1899" height="336" key="GridCell.Tab.0.center" timestamp="1624286278208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="162" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="148" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
-    <state width="1899" height="148" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
-    <state width="1899" height="148" key="GridCell.Tab.0.right" timestamp="1594662068217">
+    <state width="1899" height="336" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1624286278208" />
+    <state width="1899" height="336" key="GridCell.Tab.0.left" timestamp="1624286278208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1259" height="162" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1588083204536" />
-    <state width="1515" height="148" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1594213023970" />
-    <state width="1899" height="148" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594662068217" />
-    <state width="1899" height="255" key="GridCell.Tab.1.bottom" timestamp="1594487470464">
+    <state width="1899" height="336" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1624286278208" />
+    <state width="1899" height="336" key="GridCell.Tab.0.right" timestamp="1624286278208">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="255" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1593450191210" />
-    <state width="1899" height="255" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
-    <state width="1899" height="255" key="GridCell.Tab.1.center" timestamp="1594487470464">
+    <state width="1899" height="336" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1624286278208" />
+    <state x="463" y="165" key="SettingsEditor" timestamp="1625316750976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="255" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
-    <state width="1899" height="255" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
-    <state width="1899" height="255" key="GridCell.Tab.1.left" timestamp="1594487470463">
+    <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625316750976" />
+    <state x="523" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1625314018776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="949" height="255" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
-    <state width="1899" height="255" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470463" />
-    <state width="1899" height="255" key="GridCell.Tab.1.right" timestamp="1594487470464">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state width="949" height="255" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1593450191209" />
-    <state width="1899" height="255" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1594487470464" />
-    <state x="523" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1594703132693">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="348" y="168" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1588075125942" />
-    <state x="418" y="204" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1592715574079" />
-    <state x="523" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594703132693" />
-    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593675471957">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="771" y="439" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1593675471957" />
-    <state x="533" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1592404478548">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="533" y="259" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/0.0.1920.1040@0.0.1920.1040" timestamp="1592404478548" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-1" timestamp="1590822952782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-1/0.0.1536.824@0.0.1536.824" timestamp="1590822952782" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-2" timestamp="1590822952782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-2/0.0.1536.824@0.0.1536.824" timestamp="1590822952782" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-3" timestamp="1590822952782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-3/0.0.1536.824@0.0.1536.824" timestamp="1590822952782" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-4" timestamp="1590822952782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-4/0.0.1536.824@0.0.1536.824" timestamp="1590822952782" />
-    <state x="93" y="93" width="1350" height="638" key="dock-window-5" timestamp="1590822952782">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" key="dock-window-5/0.0.1536.824@0.0.1536.824" timestamp="1590822952782" />
-    <state x="93" y="93" width="1350" height="638" maximized="true" key="dock-window-6" timestamp="1590822952783">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="93" y="93" width="1350" height="638" maximized="true" key="dock-window-6/0.0.1536.824@0.0.1536.824" timestamp="1590822952783" />
-    <state x="661" y="273" key="git4idea.merge.GitMergeDialog" timestamp="1592405412009">
-      <screen x="0" y="0" width="1920" height="1040" />
-    </state>
-    <state x="529" y="216" key="git4idea.merge.GitMergeDialog/0.0.1536.824@0.0.1536.824" timestamp="1590854907824" />
-    <state x="661" y="273" key="git4idea.merge.GitMergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1592405412009" />
-    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1592663784957">
-      <screen x="0" y="0" width="1536" height="824" />
-    </state>
-    <state x="364" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1592663784957" />
+    <state x="523" y="257" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1625314018776" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

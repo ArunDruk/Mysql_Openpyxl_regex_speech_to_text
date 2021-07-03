@@ -1,3 +1,10 @@
+import os
+import getpass
+# print(os.environ['my_passwd'])
+a=getpass.getpass()
+print(a)
+
+
 ##############################################################################################################
 # Name Mapping and login using Test Complete
 # def Test1():
@@ -14,20 +21,6 @@
 #   browser.pageIndex.Wait()
 ##############################################################################################################
 
-# import configparser
-#
-# config=configparser.ConfigParser()
-# config.read("Setting.ini")
-# Name=config.get("ebiz","usrid")
-# print(Name)
-#
-# passwd=config.get("ebiz","pswd")
-# print(passwd)
-#
-# print(config["ebiz"]["url"])
-# print(config["ebiz"])
-#
-# config.set("ebiz","user","akumar6")
 
 #################### Accessing the values inside the Dictionary of Dictionary ###########################
 
@@ -83,34 +76,3 @@
 # a="".join(i for i in x if i.isdigit())
 # print(a)
 
-##############################################################################
-
-# L=["tc107132is_us_ap_costar_invoice_import_request_set()"]
-# print(L[0])
-##############################################################################################################
-# a=3
-# if not a:
-#     print("Pass")
-# else:
-#     print("fail")
-
-##############################################################################################################
-# class func1():
-#     def add(self):
-#         return 2
-#
-#     def sub(self):
-#         return 3
-#
-#     def mul(self):
-#         return 4
-#
-# class func2():
-#     def div(self):
-#         return 5
-#
-#     def alt(self):
-#         return 6
-#
-#     def mul(self):
-#         pass

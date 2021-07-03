@@ -1,0 +1,8 @@
+
+Pytet Fixtures : Fuctions which will run before and after each and every test function to which it is applied
+
+Fixture Scopes : Module, Class, Function, Session
+
+Scope as Session, that means it has the scope package level
+Scope as function, which is default for that particular function
+Scope as Module, till the file level

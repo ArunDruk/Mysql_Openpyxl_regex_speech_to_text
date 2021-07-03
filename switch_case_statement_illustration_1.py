@@ -28,3 +28,15 @@
 # user_sym=input("Enter the Math Operation: + - * :  ")
 # print(math_operations(user_sym))
 ########################################################################################################################################################################################################
+############################################ Switch case Statement to return person name for the Birthday date ############################################
+def func1(i):
+    switch_statement={
+        "30-aug":"Kiran's Birthday",
+        "30-sep":"Arun's Birthday",
+        "24-jun":"Daddy's Birthday"
+    }
+    return switch_statement.get(i,"No data found")
+
+
+print(func1("30-may"))
+####################################################################################################################################

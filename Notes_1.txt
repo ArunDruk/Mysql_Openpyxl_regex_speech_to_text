@@ -1,0 +1,10 @@
+Different modules used in Python:
+1. Regex - re.find, re.findall,
+2. datetime
+3. os - os.environ.get("passwd")
+4. selenium - webdriver, ActionChains, WebDriverWait, expected_conditions, webdriver_manager, By, Keys
+5. Requests
+6. For Database - MySQL, MS SQL,
+7. Openpyxl - Create, load, Read and write workbooks
+8. Collections
+9. mysql.connector

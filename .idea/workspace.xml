@@ -1,31 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Quick_practice/Grandstream_quick_prac1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Selenium_pgms/goodreturns_following_sibling.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.wav" beforeDir="false" afterPath="$PROJECT_DIR$/1.wav" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/API_Testing/get_response_api.py" beforeDir="false" afterPath="$PROJECT_DIR$/API_Testing/get_response_api.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Class_encapsulation.py" beforeDir="false" afterPath="$PROJECT_DIR$/Class_encapsulation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/List_del_operation.py" beforeDir="false" afterPath="$PROJECT_DIR$/List_del_operation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/test1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas &amp; Openpyxl module_programs/test1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QRCode_Generator_pgm.py" beforeDir="false" afterPath="$PROJECT_DIR$/QRCode_Generator_pgm.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/QR_image1.png" beforeDir="false" afterPath="$PROJECT_DIR$/QR_image1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Quick_practice/quick_prac1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Selenium_pgms/practice_1.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Sys_module_pgm1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Sys_module_pgm1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/asset_program_journal_ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/asset_program_journal_ID.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/date_time_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/date_time_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/int_float_validation.py" beforeDir="false" afterPath="$PROJECT_DIR$/int_float_validation.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phone_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/phone_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice31.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice32.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_indexing.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/string_join_function.py" beforeDir="false" afterPath="$PROJECT_DIR$/string_join_function.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/switch_case_statement_illustration_1.py" beforeDir="false" afterPath="$PROJECT_DIR$/switch_case_statement_illustration_1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test1.py" beforeDir="false" afterPath="$PROJECT_DIR$/test1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test21.py" beforeDir="false" />
-    </list>
+    <list default="true" id="e8198767-0e1d-4b3a-be73-4b217dcecbb8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,16 +178,25 @@
       <option name="presentableId" value="Default" />
       <updated>1583321454086</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1625316930637</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625316930637</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="623" y="118" key="CommitChangelistDialog2" timestamp="1625315060069">
+    <state x="623" y="118" key="CommitChangelistDialog2" timestamp="1625316923498">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1625315060069" />
+    <state x="623" y="118" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1625316923498" />
     <state x="740" y="277" key="FileChooserDialogImpl" timestamp="1625316730079">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -236,6 +221,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="463" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1625316750976" />
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2" timestamp="1625317129915">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="256" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1625317129915" />
     <state x="523" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1625314018776">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
